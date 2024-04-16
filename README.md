@@ -1,6 +1,8 @@
 
 # CRM Sillbus
 
+### Link to see the demo: https://blueberry4airy.github.io/CRM-Skillbus/
+
 Hello, 
 
 This is a final project for my online school. The purpose was to create a CRM for the Skillbus employees (an imaginary company) where they can manage their clients data.
